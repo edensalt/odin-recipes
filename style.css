@@ -5,3 +5,44 @@
 h1 {
     text-align: center;
 }
+
+img {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.guac h1{
+    background-color: rgb(0, 146, 22);
+    color: white;
+}
+
+.guac h2 {
+    background-color: rgb(0, 146, 22);
+    color: white;
+}
+
+.dip h1{
+    background-color: rgb(255, 179, 0);
+    color: white;
+}
+
+.dip h2 {
+    background-color: rgb(255, 179, 0);
+    color: white;
+}
+
+.layer h1{
+    background-color: rgb(184, 0, 0);
+    color: white;
+}
+
+.layer h2 {
+    background-color: rgb(184, 0, 0);
+    color: white;
+}
+
+.bottom {
+    text-align: center;
+}
